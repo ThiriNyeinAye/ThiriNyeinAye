@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ThiriNyeinAye
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Fullstack Development
+- 👀 I’m interested in Programming
+- 🌱 I’m a Fullstack Developer
 - 📫 How to reach me: thirinyeinaye23@gmail.com
 
 <!---
