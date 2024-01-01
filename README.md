@@ -7,9 +7,9 @@
 
 ## Skills
 ### Languages
-##### Java, C#, Javascript, Php
+###### Java, C#, Javascript, Php
 ### Frameworks, Libraries, and Tools
-##### Typescript, React, Node, Express, Next, Vue, React Native, Flux, MVC, Redux, Microservices, Unit Testing, RESTful API, Tailwind, Bootstrap, CSS and SASS
+###### Typescript, React, Node, Express, Next, Vue, React Native, Flux, MVC, Redux, Microservices, Unit Testing, RESTful API, Tailwind, Bootstrap, CSS and SASS
 
 <!---
 ThiriNyeinAye/ThiriNyeinAye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
