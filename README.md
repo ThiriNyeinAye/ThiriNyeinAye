@@ -2,7 +2,7 @@
 ## About Me
 #### I'm a passionate developer with a keen interest in web development and problem solutions. I love diving into challenging problems and leveraging technology to create innovative solutions.
 
-- 🌱 I’m currently exploring cloud computing
+- 🌱 I’m currently exploring web development
 - 📫 How to reach me: thirinyeinaye23@gmail.com
 
 ## Skills
